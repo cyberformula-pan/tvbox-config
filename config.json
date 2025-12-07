@@ -1,0 +1,25 @@
+{
+  "urls": [
+    {
+      "name": "家庭专用接口",
+      "url": "http://home.tvbox.com/config.json"
+    }
+  ],
+  "parses": [
+    {
+      "name": "通用解析",
+      "url": "http://解析地址"
+    }
+  ],
+  "sites": [
+    {
+      "key": "csp_YingShi",
+      "name": "影视大全",
+      "type": 3,
+      "api": "csp_YingShi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
